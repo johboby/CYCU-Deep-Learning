@@ -180,8 +180,11 @@ model.enable_gradient_checkpointing()
 
 反馈邮箱：[[samhoclub@163.com]
 
-公众号：![输入图片说明](%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A4%A7.jpg)
+公众号：尘渊文化
 
+
+gitee仓库；
+https://gitee.com/oneshu/CYCU-Deep-Learning.git
 
 
 
